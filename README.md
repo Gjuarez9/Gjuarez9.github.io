@@ -5,7 +5,7 @@ This project allows the user to observe all recorded tectonic data over the worl
 
 The data is presented as an interactive map which shows the magnitude and location of the earthquakes. The map allows the user to shift between three different map views. It also gives them the option to toggle three different overlays. 
 * One showing *all* earthquakes.
-* Another showing all *major* earthquakes.
+* Another showing all *major* earthquakes (magnitude greater than 4.5).
 * One that shows the *tecnotic plates* over the world.
 
 #### Resources
