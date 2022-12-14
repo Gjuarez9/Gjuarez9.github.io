@@ -9,7 +9,7 @@ The data is presented as an interactive map and allows the user to shift between
 
 #### Resources
 
-Software: HTML/CSS, JavaScript, Visual Studio Code, D3.js, Leaflet.
-Data Source: [Link](https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson)
+Software: HTML/CSS, JavaScript, Visual Studio Code, D3.js, Leaflet.  
+Data Source: [USGS API](https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson)  
 
 
