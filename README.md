@@ -7,6 +7,9 @@ The data is presented as an interactive map and allows the user to shift between
 * Another showing all *major* earthquakes.
 * One that shows the *tecnotic plates* over the world.
 
+#### Resources
 
+Software: HTML/CSS, JavaScript, Visual Studio Code, D3.js, Leaflet.
+Data Source: [Link] (https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson)
 
 
