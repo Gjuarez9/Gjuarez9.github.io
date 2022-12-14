@@ -1,4 +1,5 @@
-# Earthquakes Captured By USGS Over The Last Week
+# Mapping Earthquakes
+## Feel free to interact with the map [HERE](https://gjuarez9.github.io/)
 
 This project allows the user to observe all recorded tectonic data over the world that has occured in the last week thanks to a live API key that sources accurate data from The United States Geological Survey (USGS).
 
@@ -9,7 +10,7 @@ The data is presented as an interactive map and allows the user to shift between
 
 #### Resources
 
-Software: HTML/CSS, JavaScript, Visual Studio Code, D3.js, Leaflet.  
+Software: Github Pages, HTML/CSS, JavaScript, Visual Studio Code, D3.js, Leaflet.  
 Data Source: [USGS API](https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson)  
 
 
